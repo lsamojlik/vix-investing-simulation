@@ -1,3 +1,4 @@
+🇵🇱 [Polska wersja](README.md)
 ________________________________________
 <div align="center">
 
