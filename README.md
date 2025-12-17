@@ -9,6 +9,7 @@ Podwyższony wskaźnik VIX – zły czas na inwestowanie czy szansa na większe 
 
 ________________________________________
 Pełna analiza: https://dnarynkow.pl/czy-warto-czekac-na-krach-przetestowalismy-to-na-35-latach-danych-i-wynik-zaskakuje/
+
 Youtube: https://www.youtube.com/watch?v=sidlS-cL2FY&t=16s
 
 Opis problemu
