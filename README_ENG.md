@@ -9,12 +9,11 @@ Investment Strategy Based on an Elevated VIX Index
 </h2>
 
 ---
-
-<h2 align="center">Problem Description</h2>
-
 Full analysis: https://dnarynkow.pl/czy-warto-czekac-na-krach-przetestowalismy-to-na-35-latach-danych-i-wynik-zaskakuje/
 
 Youtube: https://www.youtube.com/watch?v=sidlS-cL2FY&t=16s
+
+<h2 align="center">Problem Description</h2>
 
 - A person without expert knowledge in investing wants to know when it is best to invest in the broad S&P 500 index.
 
